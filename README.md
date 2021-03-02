@@ -4,6 +4,8 @@
 ### **Info:**
 
 **SFML library**: https://www.sfml-dev.org/                      
+**Bubble sorting**: https://en.wikipedia.org/wiki/Bubble_sort
+**Comb sorting**: https://en.wikipedia.org/wiki/Comb_sort
 
 ### **Keymaps:**
 
